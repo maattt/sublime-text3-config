@@ -1,0 +1,6 @@
+{
+  "config": {
+    "block-indent": "  ",
+    "space-after-selector-delimiter": " "
+  }
+}

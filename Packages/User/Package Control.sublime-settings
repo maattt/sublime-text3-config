@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"CSScomb",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML5",
+		"jQuery",
+		"Package Control",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Spacegray"
+	]
+}
