@@ -1,7 +1,7 @@
 # Tout ignorer sauf le fichier .gitignore
 *
 !.gitignore
-
+!README.md
 # Garder le plugin Package Control uniquement
 !Installed Packages
 Installed Packages/*
