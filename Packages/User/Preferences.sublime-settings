@@ -7,9 +7,9 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"jQuery",
+		"Vintage",
 		"HTML5",
-		"Vintage"
+		"jQuery"
 	],
 	"indent_to_bracket": true,
 	"remember_open_files": true,

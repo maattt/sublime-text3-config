@@ -18,3 +18,5 @@ Packages/User/snippets/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+
+Packages/User/snippets/photo_intranet.sublime-snippet

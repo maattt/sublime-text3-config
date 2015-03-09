@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-<%= link_to "${1:label}", ${2:url}, title: "${3:title}" %>
+link_to "${1:label}", ${2:url}, title: "${3:title}"
 ]]></content>
   <tabTrigger>lt</tabTrigger>
   <scope>text.html.ruby</scope>
-  <description><![CDATA[<%= link_to "...", ..., title: ... %>]]></description>
+  <description><![CDATA[link_to "...", ..., title: ...]]></description>
 </snippet>
