@@ -4,6 +4,8 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"Better CoffeeScript",
@@ -11,8 +13,10 @@
 		"Color Highlighter",
 		"CSS3",
 		"CSScomb",
+		"DashDoc",
 		"Emmet",
 		"Emmet Css Snippets",
+		"GitGutter",
 		"HTML5",
 		"jQuery",
 		"Package Control",
