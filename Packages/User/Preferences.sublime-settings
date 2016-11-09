@@ -8,7 +8,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 15,
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
@@ -17,6 +17,7 @@
 		"3024 Color Scheme",
 		"HTML5",
 		"jQuery",
+		"Package Control",
 		"Vintage"
 	],
 	"indent_guide_options":

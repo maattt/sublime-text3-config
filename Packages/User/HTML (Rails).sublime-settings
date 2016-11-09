@@ -4,5 +4,6 @@
 		"rails",
 		"erb",
     "html.erb"
-	]
+	],
+  "word_separators": "./\\()\"':,.;<>~@#$%^&*|+=[]{}`~"
 }

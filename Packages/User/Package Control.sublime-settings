@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -17,9 +18,11 @@
 		"DashDoc",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Emoji",
 		"GitGutter",
 		"HTML5",
 		"jQuery",
+		"LiveReload",
 		"Package Control",
 		"Ruby on Rails snippets",
 		"SCSS",
