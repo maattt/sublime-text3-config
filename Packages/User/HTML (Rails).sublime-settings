@@ -2,8 +2,8 @@
 	"extensions":
 	[
 		"rails",
-		"erb",
-    "html.erb"
+		"html.erb",
+		"erb"
 	],
-  "word_separators": "./\\()\"':,.;<>~@#$%^&*|+=[]{}`~"
+	"word_separators": "./\\()\"':,.;<>~@#$%^&*|+=[]{}`~"
 }
