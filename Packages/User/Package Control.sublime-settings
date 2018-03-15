@@ -21,9 +21,12 @@
 		"HTML5",
 		"jQuery",
 		"Package Control",
+		"PHP-Twig",
 		"Ruby on Rails snippets",
 		"SCSS",
 		"Terminal",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Twig",
+		"Twilightcyanide Colorscheme"
 	]
 }
