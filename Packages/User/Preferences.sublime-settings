@@ -31,6 +31,7 @@
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
 	"save_on_focus_lost": true,
+	"show_definitions": false,
 	"show_full_path": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
