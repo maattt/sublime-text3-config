@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Rails.logger.fatal ${1:}]]></content>
+  <tabTrigger>lf</tabTrigger>
+  <description>Rails.logger.fatal</description>
+</snippet>

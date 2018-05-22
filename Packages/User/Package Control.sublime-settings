@@ -9,6 +9,7 @@
 	"installed_packages":
 	[
 		"3024 Color Scheme",
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
@@ -25,12 +26,16 @@
 		"HTML5",
 		"jQuery",
 		"LiveReload",
+		"MarkdownLivePreview",
+		"nginx",
 		"Package Control",
 		"PHP-Twig",
 		"Ruby on Rails snippets",
 		"SCSS",
 		"Terminal",
 		"Theme - Spacegray",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight",
 		"Twig",
 		"Twilightcyanide Colorscheme"
 	]
