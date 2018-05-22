@@ -15,6 +15,9 @@
 	"ignored_packages":
 	[
 		"3024 Color Scheme",
+		"BracketHighlighter",
+		"CSS3",
+		"GitGutter",
 		"HTML5",
 		"jQuery",
 		"Vintage"
