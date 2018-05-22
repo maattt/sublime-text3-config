@@ -24,12 +24,14 @@
 		"jQuery",
 		"LiveReload",
 		"MarkdownLivePreview",
+		"nginx",
 		"Package Control",
 		"PHP-Twig",
 		"Ruby on Rails snippets",
 		"SCSS",
 		"Terminal",
 		"Theme - Spacegray",
-		"TypeScript Syntax"
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
 	]
 }
