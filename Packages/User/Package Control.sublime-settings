@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"10% Too Dull for My Tastes Color Scheme",
 		"3024 Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
@@ -16,10 +17,13 @@
 		"CSS3",
 		"CSScomb",
 		"DashDoc",
+		"DocBlockr",
+		"DotENV",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emoji",
 		"GitGutter",
+		"GotoDocumentation",
 		"HTML5",
 		"jQuery",
 		"LiveReload",
@@ -31,9 +35,10 @@
 		"SCSS",
 		"Terminal",
 		"Theme - Spacegray",
-		"TypeScript Syntax",
-		"Vue Syntax Highlight",
 		"Twig",
-		"Twilightcyanide Colorscheme"
+		"Twilightcyanide Colorscheme",
+		"TypeScript Syntax",
+		"VBScript",
+		"Vue Syntax Highlight"
 	]
 }
