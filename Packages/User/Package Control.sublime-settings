@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"10% Too Dull for My Tastes Color Scheme",
 		"3024 Color Scheme",
 		"3D Tool (Async Burst-Mode)",
 		"A File Icon",
@@ -17,11 +18,13 @@
 		"CSS3",
 		"CSScomb",
 		"DashDoc",
+		"DocBlockr",
 		"DotENV",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emoji",
 		"GitGutter",
+		"GotoDocumentation",
 		"HTML5",
 		"jQuery",
 		"LiveReload",
@@ -36,6 +39,7 @@
 		"Twig",
 		"Twilightcyanide Colorscheme",
 		"TypeScript Syntax",
+		"VBScript",
 		"Vue Syntax Highlight"
 	]
 }
