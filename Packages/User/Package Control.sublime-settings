@@ -2,13 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BracketHighlighter",
-		"CSS3",
-		"GitGutter"
 	],
 	"installed_packages":
 	[
 		"3024 Color Scheme",
+		"3D Tool (Async Burst-Mode)",
 		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
@@ -19,6 +17,7 @@
 		"CSS3",
 		"CSScomb",
 		"DashDoc",
+		"DotENV",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emoji",
@@ -34,9 +33,9 @@
 		"SCSS",
 		"Terminal",
 		"Theme - Spacegray",
-		"TypeScript Syntax",
-		"Vue Syntax Highlight",
 		"Twig",
-		"Twilightcyanide Colorscheme"
+		"Twilightcyanide Colorscheme",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
 	]
 }

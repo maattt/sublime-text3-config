@@ -7,16 +7,13 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		"3024 Color Scheme",
-		"BracketHighlighter",
-		"CSS3",
-		"GitGutter",
 		"HTML5",
 		"jQuery",
 		"Vintage"
